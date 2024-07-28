@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="" alt="">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
@@ -12,7 +12,7 @@
     - [+] ⚡️ Added `file renaming` feature ⚡️
       - super premium repo...
     - [+] ⚡️ Support 2GB + Files ⚡️
-    - [+] ⚡️ [Watch Latest Tutorial](https://youtube.com/LazyDeveloperr)  ⚡️
+    - [+] ⚡️ [Watch Latest Tutorial](https://youtube.com/skcreator7)  ⚡️
 - [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
@@ -29,7 +29,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
+Read [this](https://telegram.dog/SKadminrobot) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -56,20 +56,20 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 * `PRIME_DOWNLOADERS`: ID of the users to which you want to give file uploading using url. Separate multiple ids by space.
 
 
-* Check [info.py](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/info.py) for more
+* Check [info.py](https://github.com/skcreator7 ) for more
 
 
 ## Deploy
 You can deploy this bot anywhere.
 
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincess&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/skcreator7/Lazyfilter&branch=master&name=lazyfilter"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincess">
+<a href="https://heroku.com/deploy?template=https://github.com/skcreator7 ">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -78,7 +78,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincess
+git clone https://github.com/skcreator7/Lazyfilter
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -126,14 +126,14 @@ python3 bot.py
 
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/SKadminrobot)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/SKadminrobot)
 
 ## Credits 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
+* [![Sk](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/skcreator7)
 
 ## Thanks to 
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding amazing `url uploadig feature`, `online file streaming feature`, `file renaming feature` and keeping this `super premium repo` for `free` ❤ . Great Thanks to [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤
+ - Thank you [Skcreator7](https://github.com/skcreator7) for adding amazing `url uploadig feature`, `online file streaming feature`, `file renaming feature` and keeping this `super premium repo` for `free` ❤ . Great Thanks to [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
